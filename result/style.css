@@ -1,0 +1,13 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+footer {
+    font-size: 10px;
+    text-align: right;
+}
+
+footer h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
